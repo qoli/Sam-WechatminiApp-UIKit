@@ -35,7 +35,7 @@ SketchFiles
 
 ### Font icon base fontawesome 5
 
-![Font icon@2x](./Export/Font icon@2x.png)
+![Font icon@2x](./Export/Fonticon@2x.png)
 
 ### Lines
 
@@ -43,11 +43,11 @@ SketchFiles
 
 ### UIFace / Mini App
 
-![UI Face -- Mini App@2x](./Export/UI Face -- Mini App@2x.png)
+![UI Face -- Mini App@2x](./Export/MiniApp@2x.png)
 
 ### UIFace / Web App
 
-![UI Face -- Web App@2x](./Export/UI Face -- Web App@2x.png)
+![UI Face -- Web App@2x](./Export/WebApp@2x.png)
 
 ### Colors
 
