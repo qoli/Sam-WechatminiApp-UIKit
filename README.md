@@ -1,5 +1,11 @@
 # Sam-WechatminiApp-UIKit
-一個基於 WEPY 框架的 UIKit（Sam）
+一款簡單的 UI Kit
+
+
+
+## 最近更新
+
+[2020年04月] 增加了 Mobile Safari UI 的外殼樣式
 
 
 
